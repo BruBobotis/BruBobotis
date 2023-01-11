@@ -15,5 +15,7 @@
 <img width="33.45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula">
 <br>
 <br>
+
 ![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
-<br>
+
+
