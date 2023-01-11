@@ -7,7 +7,7 @@
 <br>
 :small_blue_diamond: Sim, meus dois filmes favoritos são Moana:pig2: e Touro Ferdinando:ox: me respeite.
 <br>
-:small_blue_diamond:Namoro uma mulher maravilhosa com o nome muito parecido com o meu, já aguento a Bruna a 4 anos... 👩‍❤️‍👨
+:small_blue_diamond: Namoro uma mulher maravilhosa com o nome muito parecido com o meu, já aguento a Bruna a 4 anos... 👩‍❤️‍👨
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
