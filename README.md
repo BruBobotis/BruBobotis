@@ -12,6 +12,6 @@
 <br>
 <br>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)"> 
-<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)">
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)">
 <br>
 <br>
