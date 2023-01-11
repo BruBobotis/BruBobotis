@@ -1,5 +1,5 @@
 ## Olá, bem vindo ao meu perfil do Git Hub :smiling_face_with_three_hearts:
-### Prazer, meu nome é Bruno Alves :hugs: e aqui eu faço meus projetos e exércicios para a formação como Desenvolvedor Web pela [Trybe](https://www.betrybe.com/) 
+### Prazer, meu nome é Bruno Alves :hugs: e aqui eu faço meus projetos e exércicios para a formação como Desenvolvedor Web pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 ### ✨ Um pouco sobre mim ✨ 
 :small_blue_diamond: Como eu disse anteriormente, estou cursando pela [Trybe](https://www.betrybe.com/) o curso de Desenvolvimento Web Full Stack, estou na turma 29 com previsão de conclusão do curso em Novembro/2023. :octocat: <br>
 :small_blue_diamond: Atualmente também cursando Engenharia de Controle e Automação pela Faculdade Salvador Arena, com previsão de conclusão em Agosto/2026. :robot:<br>
@@ -13,4 +13,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula&card_width=500px&align=center)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-
