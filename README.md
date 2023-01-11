@@ -13,4 +13,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula&card_width=500px&align=center)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
+
