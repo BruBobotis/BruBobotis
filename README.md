@@ -11,7 +11,9 @@
 :small_blue_diamond: Namoro uma mulher maravilhosa com o nome muito parecido com o meu, já aguento a Bruna a 4 anos... 👩‍❤️‍👨
 <br>
 <br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)"> 
-<img width="27.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)">
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> 
+<img width="33.45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula">
 <br>
+<br>
+![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
 <br>
