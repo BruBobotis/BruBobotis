@@ -6,6 +6,8 @@
 :small_blue_diamond: Se você não me conhece, pode esperar conhecer uma pessoa muito alegre, sempre de bom humor, que ama conviver socialmente entre pessoas, ama sair aos finais de semana para curtir, e claro ama jogos online :desktop_computer: ... Quer jogar um Lol, TFT, Valorant, CSGO, FIFA, Rocket League ou até um Terraria pode me chamar :yum:
 <br>
 :small_blue_diamond: Sim, meus dois filmes favoritos são Moana:pig2: e Touro Ferdinando:ox: me respeite.
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruBobotis)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
