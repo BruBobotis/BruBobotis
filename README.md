@@ -11,9 +11,11 @@
 :small_blue_diamond: Namoro uma mulher maravilhosa com o nome muito parecido com o meu, eu e a Bruna estamos juntos a 4 anos... 👩‍❤️‍👨
 <br>
 <br>
-<!-- <img width="58%" padding="5px" margin-left="10%" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> 
-<img width="33.45%" padding="5px" margin-left="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&theme=dracula">
-<br> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
 
 
