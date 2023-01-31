@@ -9,11 +9,14 @@
 :small_blue_diamond: Sim, meus dois filmes favoritos são Moana:pig2: e Touro Ferdinando:ox: me respeite.
 <br>
 :small_blue_diamond: Namoro uma mulher maravilhosa com o nome muito parecido com o meu, eu e a Bruna estamos juntos a 4 anos... 👩‍❤️‍👨
+<!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" max-width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&layout=compact&langs_count=10&theme=dark"/>
-</div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BruBobotis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&layout=compact&langs_count=10&theme=dracula"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
 ![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
 
 
