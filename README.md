@@ -16,7 +16,6 @@
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
-![Snake animation](https://github.com/BruBobotis/BruBobotis/blob/output/github-contribution-grid-snake.svg)
 
 
 
