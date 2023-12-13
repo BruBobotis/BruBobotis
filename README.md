@@ -3,9 +3,7 @@
 ### <a href="https://www.linkedin.com/in/devbrunoalves/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ### ✨ Um pouco sobre mim ✨ 
 :small_blue_diamond: Como eu disse anteriormente, estou cursando pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a> o curso de Desenvolvimento Web Full Stack, estou na turma 31 com previsão de conclusão do curso em Dezembro/2023. :octocat: <br>
-:small_blue_diamond: Atualmente também cursando Engenharia de Controle e Automação pela Faculdade Salvador Arena, com previsão de conclusão em Agosto/2026. :robot: 
-<br>
-
+:small_blue_diamond: Atualmente também cursando Engenharia de Controle e Automação pela Faculdade Salvador Arena, com previsão de conclusão em Agosto/2026. :robot:
 :small_blue_diamond: Se você não me conhece, pode esperar conhecer uma pessoa muito alegre, sempre de bom humor, que ama conviver socialmente entre pessoas, ama sair aos finais de semana para curtir, e claro ama jogos online :desktop_computer: ... Quer jogar um Lol, TFT, Valorant, CSGO, FIFA, Rocket League ou até um Terraria pode me chamar :yum:
 <br>
 :small_blue_diamond: Sim, meus dois filmes favoritos são Moana:pig2: e Touro Ferdinando:ox: me respeite.
