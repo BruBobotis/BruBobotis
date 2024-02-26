@@ -9,7 +9,7 @@
 <br>
 🔹 Sim, meus dois filmes favoritos são Moana 🐖 e Touro Ferdinando 🐂 me respeite.
 <br>
-🔹 Namoro uma mulher maravilhosa com o nome muito parecido com o meu, eu e a Bruna estamos juntos a 4 anos... 👩‍❤️‍👨
+
 <!-- GITHUB STATUS -->
 <div align="center" display= "inline">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruBobotis&layout=compact&langs_count=10&theme=dracula"/>
