@@ -1,5 +1,5 @@
-## Olá, bem vindo ao meu perfil do Git Hub :smiling_face_with_three_hearts:
-### Prazer, meu nome é Bruno Alves :hugs: e aqui eu faço meus projetos como Desenvolvedor Web pela <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer noopener">Trybe</a> e também meus projetos pela <a href="https://faculdadesalvadorarena.org.br/" target="_blank" rel="noreferrer noopener">Faculdade Engenheiro Salvador Arena</a>
+
+## Prazer, meu nome é Bruno Alves :hugs: e aqui eu faço meus projetos como Desenvolvedor Web pela <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer noopener">Trybe</a> e também meus projetos pela <a href="https://faculdadesalvadorarena.org.br/" target="_blank" rel="noreferrer noopener">Faculdade Engenheiro Salvador Arena</a>
 ### <a href="https://www.linkedin.com/in/devbrunoalves/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ### ✨ Um pouco sobre mim ✨ 
 🔹 Como eu disse anteriormente, eu cursei pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a> o curso de Desenvolvimento Web Full Stack, conclui em janeiro deste ano de 2024 e agora estou em busca de formar meu portfólio. :octocat: <br>
