@@ -4,7 +4,7 @@
 ### ✨ Um pouco sobre mim ✨ 
 🔹 Atualmente também cursando Engenharia de Controle e Automação pela Faculdade Engenheiro Salvador Arena, com previsão de conclusão em Agosto/2026, onde também irei postar meus projetos aqui. 🤖 
 <br>
-🔹 Se você não me conhece, pode esperar conhecer uma pessoa muito alegre, sempre de bom humor, que ama conviver socialmente entre pessoas, ama sair aos finais de semana para curtir, e claro ama jogos online 🖥️ Quer jogar um Lol, TFT, Valorant, CSGO, FIFA, Rocket League ou até um Terraria pode me chamar 😋
+🔹 Se você não me conhece, pode esperar conhecer uma pessoa muito alegre, sempre de bom humor, que ama conviver socialmente entre pessoas, ama sair aos finais de semana para curtir, e claro ama jogos online 🖥️ Tftzinho é minha paixão😋
 <br>
 🔹 Sim, meus dois filmes favoritos são Moana 🐖 e Touro Ferdinando 🐂 me respeite.
 <br>
